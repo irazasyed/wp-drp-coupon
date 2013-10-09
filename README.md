@@ -85,10 +85,21 @@ Screenshots
 -----------
 
 1. Plugin admin panel `screenshot-1.png`
-
 2. The place to insert coupon and options `screenshot-2.png`
-
 3. The frontend once in post or page `screenshot-3.png`
+
+**Screenshot - 1:**
+
+![screenshot-1](https://raw.github.com/irazasyed/wp-drp-coupon/master/screenshot-1.png)
+
+**Screenshot - 2:**
+
+![screenshot-2](https://raw.github.com/irazasyed/wp-drp-coupon/master/screenshot-2.png)
+
+**Screenshot - 3:**
+
+![screenshot-3](https://raw.github.com/irazasyed/wp-drp-coupon/master/screenshot-3.png)
+
 
 Changelog
 ---------
