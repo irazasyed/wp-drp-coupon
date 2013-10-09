@@ -1,0 +1,81 @@
+.coupon_box{				
+	margin:5px 0 20px;				
+}
+.coupon_box .coupon_name{
+	font-weight:bold;
+}
+.coupon_box .coupon_description{
+	margin-top:5px;				
+	font-size:8pt;
+	line-height:12px;
+}
+
+.coupon_box .coupon_date{
+	margin:0;
+}
+
+.coupon_box .coupon_date span{
+	font-size:8pt;
+	font-weight:bold;				
+}
+
+.coupon_box .codeincut{
+	cursor:pointer;
+}
+
+.coupon_box .coupon_container {
+	margin-top:5px;
+	position:relative; 
+	overflow: hidden;
+}
+
+.coupon_box .coupon {
+	border:1px dashed #FEBF02;
+	color:#553E00;
+	padding:5px 45px 4px 10px;
+	font-size:14px;
+	background: #FDEDB4 url('img/scissors.png') right center no-repeat;
+	float:left;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	position:relative;
+   -moz-user-select: -moz-none;
+   -khtml-user-select: none;
+   -webkit-user-select: none;
+   -o-user-select: none;
+    user-select: none;
+}		
+
+.coupon_box .coupon:hover {
+	border:1px dashed #000;
+}	
+
+.coupon_box .coupon.hover {
+	border:1px dashed #000;
+}
+
+
+.coupon_box .coupon .hover-message {
+display:none;
+}
+
+.coupon_box .coupon.hover .hover-message {
+	background:#333333 none repeat scroll 0 0;
+	color:#FFFFFF;
+	display:block;
+	font-size:11px;
+	font-weight:normal;
+	padding:2px 5px;
+	position:absolute;
+	right:-110px;
+	top:0;
+}
+		
+
+.coupon_box .clear {
+	clear:left;
+}
+
+.coupon_box .coupon_message {
+	margin:5px 0 0;
+}

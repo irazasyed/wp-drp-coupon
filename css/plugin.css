@@ -1,0 +1,143 @@
+#main{
+
+}
+#main .content .col-a {
+	float: right;
+	width: 70%;
+	
+}
+#main .content .col-b {
+	float: left;
+	width: 25%;
+	margin-left:10px;
+}
+#main .content  h2 {
+	font-family: Georgia, serif;
+	font-size: 1.5em;
+	font-weight: normal;
+	margin:0 0 25px 0;	
+	background:transparent url("../images/heading_l_line.gif") 0 90% no-repeat;
+	width:90%;
+}
+#main h2 span {
+	background-color: #fff;
+	padding: 0 6px 0 0;	
+}
+#main .content .col-b h3 {
+	background:url("../images/heading_line.gif") 0 100% no-repeat;
+	margin:15px 10px 15px 5px;
+}
+#main .content .col-b .partner-category li, #main .content .col-a li{
+	list-style:none;
+}
+#main .content .col-b .partner-category a, #main .content .col-a a {
+	color:#D16F1A;
+	text-decoration:none !important;	
+}
+#main .content .col-a .latest-ideas li span{
+	font-family: Georgia, serif;
+	font-size: 8pt;
+	margin-right:10px;
+}
+#main .content .col-a .idea-list li span{
+	font-family: Georgia, serif;
+	font-size: 8pt;
+	margin-left:10px;
+}
+
+ul.idea-list-key {
+	width: 414px;
+	margin: 0 0 15px 0;
+	padding: 10px 0 10px 10px;
+	overflow: hidden;
+	list-style: none;
+	background-color: #F1EDE4;
+}
+ul.idea-list-key li {
+	float: left; 
+	display: inline;
+	margin: 0 10px 0 0;
+}
+ul.idea-list-key li small {
+	display: block;
+	height: 20px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	line-height: 1.8em;
+	font-size: 0.85em;
+	_float: left;
+}
+ul.idea-list-key li small.launched {
+	background-image: url(../images/launched.gif); 
+	padding: 0 0 0 25px;
+}
+ul.idea-list-key li small.reviewed {
+	background-image: url(../images/reviewed.gif); 
+	padding: 0 0 0 25px;
+}
+ul.idea-list-key li small.in-the-works {
+	background-image: url(../images/in_works.gif); 
+	padding: 0 0 0 25px;
+}
+ul.idea-list-key li small.under-review {
+	background-image: url(../images/under_rev.gif); 
+	padding: 0 0 0 23px;
+}
+.vote-yes{
+	background:url(../images/b_vote.gif) no-repeat 0px 6px;
+	width:50px;
+	height:50px;
+	marign-top:5px;	
+	
+}
+.vote-no{
+	background:url(../images/b_vote.gif) no-repeat 0 -46px;
+	width:50px;
+	height:50px;
+	marign-top:5px;
+}
+ul.idea-vote li.score span {
+	display: block;
+	float: left;
+	width: 100%;
+	text-align: center;
+	border-top: 1px solid #BDBCB7;
+	font-family: Georgia, serif;
+	padding: 0 0 5px 0;
+}
+div.ideas-all {
+	clear: both;
+	overflow: hidden;
+	margin: 0 0 25px 0;
+  min-height: 400px; /* 12-28-2009 for ajax actions */
+}
+div.imessage {
+	width: 556px;
+	float: right;
+    display:inline; /* for IE6 bug */
+    /* overflow:hidden; */
+}
+.commentdiv{
+	background: url(../images/icon_comment.gif) no-repeat 0 0;
+	margin-left:10px;	
+}
+.voting{
+	float:left;
+	width:55px;	
+	height:30px;
+	background: url(../images/ajax-loader.gif) no-repeat 30px 10px;
+}
+
+.drpcoupon-instructions {
+	margin: 5px;
+}
+
+.drpcoupon-instructions-header {
+	font-size:14px;
+	margin:7px 0;
+	font-weight:bold;
+}
+
+#coupon-list .empty {
+	padding:15px;
+}
