@@ -1,4 +1,4 @@
-# DRP Coupon #
+# DRP Coupon - WordPress Plugin #
 ===
 ### WordPress Plugin - DRP Coupon Mirror! ###
 
