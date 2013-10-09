@@ -5,7 +5,7 @@ DRP Coupon - WordPress Plugin
 
 This is a mirror of DRP Coupon's WordPress Plugin which was removed recently for unknown reasons and was available at [http://wordpress.org/plugins/drp-coupon/](http://wordpress.org/plugins/drp-coupon/)
 
-**Note:** I'm in no way, shape or form affiliated with the plugin or the developers of this plugin. Refer the plugin's license for more information about the permissions/rights or contact the plugin's developer on their official site - www.directresponsepublishing.com
+**Note:** I'm in no way, shape or form affiliated with the plugin or the developers of this plugin. Refer the plugin's license for more information about the permissions/rights or contact the plugin's developer on their official site - directresponsepublishing.com
 
 ---
 
@@ -73,7 +73,7 @@ Frequently Asked Questions
 
 - Yes. Which means don't expect a lot unless your willing to throw cash my way ;)
 
-**Does the link require http:// or can i just put www.**
+**Does the link require http:// or can i just put www\.**
 
 - You can put either one it works with both
 
