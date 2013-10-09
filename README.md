@@ -18,7 +18,7 @@ This is a mirror of DRP Coupon's WordPress Plugin which was removed recently for
 DRP Coupon is a Wordpress Coupon Plugin which Allows You To Add Coupons that Expire or Don't Expire To Your Posts and Pages.
 
 #### Description ####
-
+---
 DRP Coupon is a Wordpress Coupon Plugin which Allows You To Add Coupons that Expire To Your Posts and Pages. You can set your coupons to expire at the end of a certain date and they will disappear from your post or page or display a custom message like "no longer available". Add a regular link or an affiliate link from which the coupon will go to when clicked. A person cannot copy the code unless they click on the link. Once clicked it will copy the coupon code to the clipboard ready for easy pasting.
 
 You can also set future dates for coupons to appear. So if a coupon starts in a week or 24hrs you can set the date, insert into post or page and the coupon will only appear when that start date arrives.
@@ -28,13 +28,14 @@ You can also have coupons with no expiry date so they are always viewable
 Your url is masked, go ahead mouse over it and you won't see your affiliate link.
 
 #### Installation ####
+---
 
-   1. Upload DRPCoupon directory to the /wp-content/plugins/ directory
-   2. Activate the plugin through the 'Plugins' menu in WordPress
-   3. Use the DRP Coupon Options on left to make create and manage coupons.
+1. Upload DRPCoupon directory to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Use the DRP Coupon Options on left to make create and manage coupons.
 
 #### Frequently Asked Questions ####
-
+---
 **How to do you display it after you create a coupon?**
 
  To have it show in a page or post.  You have **2 options**
@@ -42,7 +43,6 @@ Your url is masked, go ahead mouse over it and you won't see your affiliate link
 1. Clicking a button in your post or page ( see screenshot for location )
 2. Using code into PHP like single.php ( only for advanced users ).
 
-&nbsp;
 
 **How do i get just the coupon to show ( no title, description or expiry date )?**
 
@@ -75,18 +75,18 @@ Your url is masked, go ahead mouse over it and you won't see your affiliate link
 
 **How can I see what it looks like before I activate it?**
 
-- View the screenshots tab here on wordpress
+- View the screenshots
 
 #### Screenshots ####
+---
+1. Plugin admin panel `screenshot-1.png`
 
-1. Plugin admin panel screenshot-1.png
+2. The place to insert coupon and options `screenshot-2.png`
 
-2. The place to insert coupon and options screenshot-2.png
-
-3. The frontend once in post or page screenshot-3.png
+3. The frontend once in post or page `screenshot-3.png`
 
 #### Changelog ####
-
+---
 **1.0**  
 
 * Added to wordpress for everyone
